@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ash8707672263@gmail.com**
 
-- ⚡ Fun fact **Thinker**
+- ⚡ Fun fact **Gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
