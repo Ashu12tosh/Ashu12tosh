@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **chat website**
 
-- 🌱 I’m currently learning **react.js , next.js**
+- 🌱 I’m currently learning **react.js , next.js** , react-native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashu12tosh](https://github.com/Ashu12tosh)
 
