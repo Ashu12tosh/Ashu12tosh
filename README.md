@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashu12tosh" alt="ashu12tosh" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce web and mobile application(React-native)**
+- 🔭 I’m currently working on **Backend Developement of my Video Platform called YouTron**
 
-- 🌱 I’m currently learning **react.js , next.js , react-native**
+- 🌱 I’m currently learning **Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashu12tosh](https://github.com/Ashu12tosh)
 
